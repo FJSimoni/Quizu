@@ -1,0 +1,29 @@
+{
+    "questions": [
+        {
+        "question": "la correcta es la 2",
+        "respuesta1": "respuesta 1",
+        "respuesta2": "respuesta 1",
+        "respuesta3": "respuesta 1",
+        "respuesta4": "respuesta 1",
+        "correcta": 2
+        },
+
+        {
+        "question": "la correcta es la 1",
+        "respuesta1": "respuesta 1",
+        "respuesta2": "respuesta 1",
+        "respuesta3": "respuesta 1",           
+        "respuesta4": "respuesta 1",
+        "correcta":1
+        },
+        {
+        "question": "la correcta es la 4",
+        "respuesta1": "respuesta 1",
+        "respuesta2": "respuesta 1",
+        "respuesta3": "respuesta 1",
+        "respuesta4": "respuesta 1",
+        "correcta":4
+                }
+    ]
+}
