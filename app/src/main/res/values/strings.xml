@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Quizu</string>
-
-
-    <string name="menu_home">Home</string>
-    <string name="prefs_file">com.example.quizu.Preference_file_key</string>
-
-</resources>
